@@ -12,7 +12,6 @@
 		63A618291C53C381007AF001 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A618281C53C381007AF001 /* AppDelegate.swift */; };
 		63A6182B1C53C381007AF001 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A6182A1C53C381007AF001 /* ViewController.swift */; };
 		63A6182E1C53C381007AF001 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63A6182C1C53C381007AF001 /* Main.storyboard */; };
-		AD05C7C020EBD8B600915CD8 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD05C7BF20EBD8B600915CD8 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		63A618341C53C381007AF001 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		73D19A6F9515D008A533B85F /* Pods_BitcoinTicker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BitcoinTicker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		94395B5DA865A93711E3D9F5 /* Pods-BitcoinCalculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitcoinCalculator.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BitcoinCalculator/Pods-BitcoinCalculator.debug.xcconfig"; sourceTree = "<group>"; };
-		AD05C7BF20EBD8B600915CD8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B0F6D9CA5F78F0F1F8448F15 /* Pods-BitcoinTicker.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BitcoinTicker.release.xcconfig"; path = "Pods/Target Support Files/Pods-BitcoinTicker/Pods-BitcoinTicker.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -46,7 +44,6 @@
 		63A6181C1C53C381007AF001 = {
 			isa = PBXGroup;
 			children = (
-				AD05C7BF20EBD8B600915CD8 /* README.md */,
 				63A618271C53C381007AF001 /* BitcoinCalculator */,
 				63A618261C53C381007AF001 /* Products */,
 				A7401423FE465B32AFAAD1EA /* Pods */,
@@ -156,7 +153,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD05C7C020EBD8B600915CD8 /* README.md in Resources */,
 				50387E9921D679CD0099D020 /* Assets.xcassets in Resources */,
 				63A6182E1C53C381007AF001 /* Main.storyboard in Resources */,
 			);
